@@ -19,5 +19,5 @@ These flaws will not be fixed, this project is mainly for demo purposes.
 To compile the auto clicker, you need Git and Maven.
 
 1. Download the project using `git clone https://github.com/GitRowin/discord-auto-clicker.git`
-2. Modify the constants `TOKEN`, `GUILD_ID`, and `CHANNEL_ID` in Clicker.java
+2. Modify the constants `TOKEN`, `GUILD_ID`, and `CHANNEL_ID` in Clicker.java (Optional)
 3. Compile using `mvn clean install`
